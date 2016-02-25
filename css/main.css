@@ -1,0 +1,238 @@
+/*The Gentleman*/
+/*Header*/
+.bg-gris{
+	background-color: #393838;
+}
+
+.logo-letra{
+font-family: "Dosis";
+font-size: 26px;
+font-style: normal;
+
+}
+
+.chubby{
+	font-family: "Open Sans";
+	font-weight: bolder;
+}
+
+nav ul li{
+	display: inline;
+	color: white;
+	padding-left:6%;
+}
+
+a{
+	text-decoration: none;
+}
+
+li:hover{
+	color:#C22078;
+}
+
+.rosa:hover{
+	color: white;
+}
+
+.rosa{
+	color:#C22078;
+}
+
+.text-gris{
+ color:#5E5656;
+}
+
+.titular{
+	font-size: 40px;
+}
+
+.borde-bonito{
+	border-bottom: dotted 1px gray;
+}
+
+
+/*botones*/
+
+.boton{
+	color: white;
+	border: none;
+}
+
+.botones{
+	background-color: #C5C5C5;
+	width: 120px;
+	height: 25px;
+	border-radius: 15px;
+}
+.bot-twitter{
+	width: 50px;
+	height: 18px;
+	border-radius: 4px;
+	font-family: "times";
+}
+
+button:hover{
+	background-color: #C22078;
+}
+
+input{
+	font-family: "times";
+	background-color: #424242;
+	padding-bottom: 2%;
+	padding-top: 2%;
+
+}
+
+input:hover{
+	background-color: #C22078;
+}
+
+img:hover{
+	opacity:.8;
+}
+
+.twitter2{
+	background-color: #C22078; 
+}
+
+/*Margenes y paddings*/
+.mt-10{
+	margin-top: 10%
+}
+
+.mt-8{
+	margin-top:8%;
+}
+
+.mt-5{
+	margin-top:5%;
+}
+.mb-5{
+	margin-bottom: 5%;
+}
+.pt-3{
+	padding-top: 3%;
+}
+
+.pb-3{
+	padding-bottom: 3%;
+}
+
+.pt-10{
+	padding-top: 6%;
+}
+
+.ml-35{
+	margin-left: 35%;
+}
+
+.ml-25{
+	margin-left: 25%;
+}
+/*Ultimos proyectos*/
+
+
+ul li{
+	display: inline;
+}
+
+.pl-1{
+padding-left: 1%;
+}
+
+.main-pic{
+	background-image: url("../img/main-pic.png");
+	height: 230px;
+	background-size: 100%;
+}
+
+.text-ico{
+	font-size: 13px;
+	font-family: "Dosis";
+	padding-left: 3%;
+	padding-right: 3%;
+}
+
+.ico{
+	width: 20px;
+	height: 20px;
+}
+
+.logo-twitter{
+	background-image: url("../img/logo-twitter.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 40%;
+	height: 80px;
+	margin-top: 20%;
+	
+}
+
+/*texto twitter*/
+
+.font-tweet{
+	font-size: 22px;
+}
+
+.font-parrafo{
+	font-size: 18px;
+}
+/*Pie de pagina */
+.pie-pagina li{
+	display: inline;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.borb-blanco{
+		border-bottom: solid 1px white;
+}
+
+.h2-letra{
+	font-size: 18px;
+}
+
+.txt-grayblue{
+	color: #D2D9E7;
+}
+
+.ref-comment{
+	font-size: 11px;
+	font-family: "Dosis";
+}
+
+.fat-font{
+	font-weight: bolder;
+}
+
+.font-adress{
+	font-size:19px;
+}
+
+.font-number{
+	font-size: 20px;
+}
+
+textarea{
+	background-color: #424242;
+	border: #424242;
+	color: white;
+}	
+
+.redes-ico{
+	height:30px;
+	width: 30px;
+	margin-left: 2%;
+	margin-top:3%;
+	padding: 2%;
+	border: dashed 1px white;
+	border-radius: 14px;
+}
+
+
+/*letras*/
+
+.dosis{
+	font-family:"dosis";
+}
+
